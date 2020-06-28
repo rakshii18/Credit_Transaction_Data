@@ -6,4 +6,6 @@ Models : Created two hyper-parameter tuned models - Random Forest Classifier mod
 
 Evaluation: Evaluated the performance of the models using f-1 score and accuracy score.
 
-Created a feature importance table containing the most important features at the top and the least important features at the bottom for the two classification models created.
+Created a feature importance table containing the most important features at the top and the least important features at the bottom for the two classification models.
+
+Plots: Created partial dependence plots to analyze the importance of the features with respect to the target value for both the classification models.
