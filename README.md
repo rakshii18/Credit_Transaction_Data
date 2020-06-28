@@ -1,6 +1,6 @@
 # Credit_transaction 
 
-Data Set: Used the credit transaction data to classify transactions as fraudulent or not.
+Data Set: Used the credit transaction data to classify transactions as fraudulent or not. The data set can be found here : https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 Models : Created two hyper-parameter tuned models - Random Forest Classifier model and Gradient Boosting Model.
 
