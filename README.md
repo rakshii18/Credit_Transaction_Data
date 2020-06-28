@@ -1,4 +1,4 @@
-# Credit_transcation 
+# Credit_transaction 
 
 Data Set: Used the credit transaction data to classify transactions as fraudulent or not.
 
